@@ -4,9 +4,9 @@
 
 
 ## 🌱 I’m currently learning Machine Learning
-- [Test task for KazanExpress](https://github.com/KKroliKK/test-task-Kazan-Express)
+- [Test task from KazanExpress](https://github.com/KKroliKK/test-task-Kazan-Express)
 - [Some jupyter notebooks](https://github.com/KKroliKK/Machine-Learning)
-- [Test task for SKB Kontur](https://github.com/KKroliKK/test-task-SKB-Kontur)
+- [Test task from SKB Kontur](https://github.com/KKroliKK/test-task-SKB-Kontur)
 
 
 
