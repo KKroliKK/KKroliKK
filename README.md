@@ -8,6 +8,7 @@
 - [Some jupyter notebooks](https://github.com/KKroliKK/Machine-Learning)
 - [Test task from SKB Kontur](https://github.com/KKroliKK/test-task-SKB-Kontur)
 - [University Intro to ML course](https://github.com/KKroliKK/Introduction-to-Machine-Learning)
+- [LSTM text generator trained on jokes](https://github.com/KKroliKK/LSTM-text-generator)
 
 
 
