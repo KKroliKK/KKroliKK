@@ -1,6 +1,8 @@
 ## 📊 Projects
 - [Python document cropper which can be applied to images](https://github.com/KKroliKK/document-cropper)
 - [Asynchronous telegram bot for neural style transfer](https://github.com/KKroliKK/StyleTransferBot)
+- [LSTM text generator trained on jokes](https://github.com/KKroliKK/LSTM-text-generator)
+- [Predicting product’s category according to state registry (ГИСП)](https://github.com/KKroliKK/ktru-prediction)
 
 
 ## 🌱 I’m currently learning Machine Learning
@@ -8,8 +10,6 @@
 - [Some jupyter notebooks](https://github.com/KKroliKK/Machine-Learning)
 - [Test task from SKB Kontur](https://github.com/KKroliKK/test-task-SKB-Kontur)
 - [University Intro to ML course](https://github.com/KKroliKK/Introduction-to-Machine-Learning)
-- [LSTM text generator trained on jokes](https://github.com/KKroliKK/LSTM-text-generator)
-
 
 
 ## 👨‍💻 Stack
