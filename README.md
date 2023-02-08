@@ -24,6 +24,7 @@
 Repositories with some courses and electives which I studied
 - [Introduction to Machine Learning](https://github.com/KKroliKK/Introduction-to-Machine-Learning)
 - [Reinforcement Learning](https://github.com/KKroliKK/Reinforcement-Learning)
+- [Information Retrieval](https://github.com/KKroliKK/Information-Retrieval)
 - [Introduction to Artificial Intelligence](https://github.com/KKroliKK/Introduction-to-Practical-Artificial-Intelligence)
 - [Distributed Network Programming](https://github.com/KKroliKK/Distributed-Network-Programming)
 - [Operating systems](https://github.com/KKroliKK/Operating-Systems)
