@@ -22,9 +22,9 @@
 
 ## 🎓 Innopolis Univeristy
 Repositories with some courses and electives which I studied
+- [Reinforcement Learning](https://github.com/KKroliKK/Reinforcement-Learning)
 - [Natural Language Processing](https://github.com/KKroliKK/Natural-Language-Processing)
 - [Introduction to Machine Learning](https://github.com/KKroliKK/Introduction-to-Machine-Learning)
-- [Reinforcement Learning](https://github.com/KKroliKK/Reinforcement-Learning)
 - [Security and Interpretability of Machine Learning](https://github.com/KKroliKK/Security-and-Interpretability-of-Machine-Learning)
 - [Digital Signal Processing](https://github.com/KKroliKK/Digital-Signal-Processing)
 - [Information Retrieval](https://github.com/KKroliKK/Information-Retrieval)
