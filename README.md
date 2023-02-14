@@ -1,14 +1,12 @@
 ## 📊 Projects
+- [Hierarchical classification of goods by description (test task from KazanExpress)](https://github.com/KKroliKK/test-task-Kazan-Express)
+- [Predicting product’s category according to state registry (ГИСП)](https://github.com/KKroliKK/ktru-prediction)
 - [Python document cropper which can be applied to images](https://github.com/KKroliKK/document-cropper)
 - [Asynchronous telegram bot for neural style transfer](https://github.com/KKroliKK/StyleTransferBot)
-- [LSTM text generator trained on jokes](https://github.com/KKroliKK/LSTM-text-generator)
-- [Predicting product’s category according to state registry (ГИСП)](https://github.com/KKroliKK/ktru-prediction)
-
-
-## 🌱 I’m currently learning Machine Learning
-- [Test task from KazanExpress](https://github.com/KKroliKK/test-task-Kazan-Express)
+- [Jokes generator](https://github.com/KKroliKK/LSTM-text-generator)
+- [News classifier (test task from SKB Kontur)](https://github.com/KKroliKK/test-task-SKB-Kontur)
 - [Some jupyter notebooks](https://github.com/KKroliKK/Machine-Learning)
-- [Test task from SKB Kontur](https://github.com/KKroliKK/test-task-SKB-Kontur)
+
 
 
 ## 👨‍💻 Stack
@@ -44,6 +42,7 @@ Repositories with some courses and electives which I studied
 
 
 <!--
+- 🌱 I’m currently learning Machine Learning
 - 🎯 My contributions
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
