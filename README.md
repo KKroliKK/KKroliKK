@@ -1,4 +1,5 @@
 ## 📊 Projects
+- [Multimodal model for products classification using embeddings from **ruBERT**, **ResNet**, **FastText**, **Wiki2Vec**](https://github.com/KKroliKK/Products-Classification)
 - [Hierarchical classification of goods by description (test task from KazanExpress)](https://github.com/KKroliKK/test-task-Kazan-Express)
 - [Predicting product’s category according to state registry (ГИСП)](https://github.com/KKroliKK/ktru-prediction)
 - [Python document cropper which can be applied to images](https://github.com/KKroliKK/document-cropper)
