@@ -4,7 +4,6 @@
 - [Predicting product’s category according to state registry (ГИСП)](https://github.com/KKroliKK/ktru-prediction)
 - [Hierarchical classification of goods by description (test task from KazanExpress)](https://github.com/KKroliKK/test-task-Kazan-Express)
 - [Python document cropper which can be applied to images](https://github.com/KKroliKK/document-cropper)
-- [Asynchronous telegram bot for neural style transfer](https://github.com/KKroliKK/StyleTransferBot)
 - [Jokes generator](https://github.com/KKroliKK/LSTM-text-generator)
 - [News classifier (test task from SKB Kontur)](https://github.com/KKroliKK/test-task-SKB-Kontur)
 - [Some jupyter notebooks](https://github.com/KKroliKK/Machine-Learning)
